@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/bgattachstyle.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="navdiv">
+    <header>
+        <nav>
+            <ul class="nav-list">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Honeymoon</a></li>
+                <li><a href="#">How we Started</a></li>
+                <li><a href="#">Our Wishlist</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    </div>
+
+    <div class="parenttiles">
+        
+        <div class="tile-one">
+            <h3>We</h3>
+        </div>
+    
+        <div class="tile-two">
+            <h3>Found</h3>
+        </div>
+    
+        <div class="tile-three">
+            <h3>Love</h3>
+        </div>
+        </div>
+  
+</body>
+</html>
